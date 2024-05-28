@@ -10,7 +10,7 @@ You can easily use this as a template for your own models.
 
 ### Train your own Model
 
-![image](https://github.com/Akamuhammed/FastAI-Food_Clasifier/assets/170109049/558e2ea3-2d95-4ee2-b27a-287b7e0a2ce7)
+![image]https://colab.research.google.com/github/Akamuhammed/FastAI-Food_Clasifier/blob/main/Train_a_Food_Model.ipynb
 
 
 Go ahead and open the Notebook in Colab with a simple press of a button! Most steps will be described in detail there. Just follow along!
